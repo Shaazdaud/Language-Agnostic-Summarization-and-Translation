@@ -1,6 +1,3 @@
-
----
-
 ### **README.md**
 
 ```markdown
@@ -116,5 +113,3 @@ This project is licensed under the MIT License. See the LICENSE file for details
 For questions or feedback, please reach out to:
 - **GitHub**: [Shaazdaud](https://github.com/Shaazdaud)
 ```
-
----
