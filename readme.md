@@ -1,6 +1,5 @@
 ### **README.md**
 
-```markdown
 # Language-Agnostic Summarization and Translation Tool
 
 This project is an open-source NLP application that summarizes text and translates it into a target language, maintaining the original context. It is ideal for multilingual platforms and applications requiring cross-language accessibility.
